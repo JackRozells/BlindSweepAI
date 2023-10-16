@@ -4,7 +4,7 @@
 This repository contains the codes (in PyTorch) for the framework introduced in the following paper:
 
 This repository is largely based on the works cited below:
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S136184152100044X) [[Project Page]](https://pakheiyeung.github.io/PlaneInVol_wp/)
+[[Yeung et al]](https://www.sciencedirect.com/science/article/pii/S136184152100044X)
 
 
 ```
