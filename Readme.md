@@ -1,12 +1,11 @@
 
-# Learning to Map 2D Ultrasound Images into 3D Space with Minimal Human Annotation
-
-![Figure](fig/head_gif.gif)
+# Utilizing Blind freehand ultrasound sweeps to determine fetal viability
 
 This repository contains the codes (in PyTorch) for the framework introduced in the following paper:
 
-Learning to Map 2D Ultrasound Images into 3D Space  with Minimal Human Annotation
+This repository is largely based on the works cited below:
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S136184152100044X) [[Project Page]](https://pakheiyeung.github.io/PlaneInVol_wp/)
+
 
 ```
 @article{yeung2021learning,
