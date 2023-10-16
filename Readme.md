@@ -1,8 +1,6 @@
 
 # Utilizing Blind freehand ultrasound sweeps to determine fetal viability
 
-This repository contains the codes (in PyTorch) for the framework introduced in the following paper:
-
 This repository is largely based on the works cited below:
 
 [[Yeung et al]](https://www.sciencedirect.com/science/article/pii/S136184152100044X)
